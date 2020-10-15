@@ -52,7 +52,7 @@
     "eslint": "^2.3.0",
     "eventsource-polyfill": "^0.9.6",
     "express": "^4.13.4",
-    "react-dom": "^0.14.7",
+    "react-dom": "^16.13.1",
     "react-transform-hmr": "^1.0.4",
     "rimraf": "^2.5.2",
     "style-loader": "^0.13.0",
@@ -61,6 +61,7 @@
     "webpack-hot-middleware": "^2.9.0"
   },
   "dependencies": {
-    "react": "^0.14.7"
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1"
   }
 }
