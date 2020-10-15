@@ -1,7 +1,7 @@
 
 # Changes introduced by fork
-Update to React 16.13.1
-Add prop-types library
+* Update to React 16.13.1
+* Add prop-types library
 
 # React Off-Canvas
 
