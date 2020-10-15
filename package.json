@@ -10,8 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:vutran/react-offcanvas.git"
+    "url": "git@github.com:JohnGomes/react-offcanvas.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "clean": "rimraf lib",
     "lint": "eslint ./src",
