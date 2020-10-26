@@ -1,6 +1,6 @@
 {
   "name": "@johngomes/react-offcanvas",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Off-canvas menus for React.",
   "main": "lib/index.js",
   "files": [
